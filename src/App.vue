@@ -15,7 +15,6 @@ import Main from './components/main.vue'
 export default {
   name: 'App',
   components: {
-
    Header,
    Main,
   }

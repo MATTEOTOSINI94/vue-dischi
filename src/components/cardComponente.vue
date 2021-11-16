@@ -34,11 +34,11 @@ export default {
 #card-style{
   height: 100%;
   background: rgba(43, 58, 70, 0.705);
-  padding-top: 20px;
-  padding-bottom: 25px;
+  padding-top: 15px;
+  padding-bottom: 20px;
 
   img{
-    width: 120px;
+    width: 110px;
     align-self: center;
   }
 
